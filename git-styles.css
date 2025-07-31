@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    size: 12px;
+    padding-left: 24px;
+}
+
+a:hover {
+    background-color: aquamarine;
+}
